@@ -54,10 +54,31 @@ To get started with this project, follow these steps:
    git clone https://github.com/yourusername/BASEProject.git
    cd BASEProject
    
-2. Install the required Python packages for web scraping and newsletter generation. Refer to the **'requirements.txt'** and **'install_packages.txt'** files in the respective folders (BASEScraping and BASENewsletter) for package details.
-3. Provide the necessary JSON key file **(`file.json`)** for Google Sheets authentication as specified in the scripts (Configure Google SHeets Authentication
+2. Install the required Python packages for web scraping and newsletter generation. Refer to the `requirements.txt` and `install_packages.txt` files in the respective folders (BASEScraping and BASENewsletter) for package details.
+  
+3. Provide the necessary JSON key file `file.json` for Google Sheets authentication as specified in the scripts (Configure Google SHeets Authentication.
 
+## Usage
 
+### Web Scraping (BASEScraping)
+
+1. Ensure that you have set up the Google Sheet where scraped data will be stored. Update the Google Sheet's name and worksheet names in the `datascraper.py` script.
+2. Execute the web scraping script by running the `datascraper.py` script:
+
+   ```bash
+   python BASEScraping/datascraper.py
+
+3. The script will scrape articles from specified websites, process the data, and update the Google Sheet with the latest information.
+
+### Newsletter Generation (BASENewsletter)
+
+1. Configure the newsletter generation script by updating the necessary parameters, such as search keywords and article categories, in the `WeeklyNewsletter.py` script.
+2. Execute the newsletter generation script:
+
+   ```bash
+   python BASENewsletter/WeeklyNewsletter.py
+
+3. The script will generate a weekly newsletter based on the scraped articles and send it to the specified recipients.
 
 ## Workflow Automation
 
