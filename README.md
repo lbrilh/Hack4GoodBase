@@ -56,7 +56,7 @@ To get started with this project, follow these steps:
    
 2. Install the required Python packages for web scraping and newsletter generation. Refer to the `requirements.txt` and `install_packages.txt` files in the respective folders (BASEScraping and BASENewsletter) for package details.
   
-3. Provide the necessary JSON key file `file.json` for Google Sheets authentication as specified in the scripts (Configure Google SHeets Authentication.
+3. Provide the necessary JSON key file `hack4good-newsletter-5c61bf7e7811.json` for Google Sheets authentication as specified in the scripts (Configure Google SHeets Authentication.
 
 ## Usage
 
