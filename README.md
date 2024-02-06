@@ -15,9 +15,9 @@ This repository contains the code and resources for the BASE project (part of Ha
 - [License](#license)
 
 ## Team Members
-* Luca Brilhaus
-* Leander Waddel
-* Xueqing Wang
+* Luca Brilhaus (https://ch.linkedin.com/in/lucabrilhaus)
+* Leander Waddell (https://ch.linkedin.com/in/leander-waddell-9b3163263)
+* Xueqing Wang (https://ch.linkedin.com/in/wangxueqing)
 
 ## Project Overview
 
