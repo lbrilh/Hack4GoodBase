@@ -42,7 +42,7 @@ The repository has the following structure:
 - `.gitignore`: Configuration file to specify which files or directories should be ignored by Git.
 - `LICENSE`: The license file for this project.
 - `README.md`: This README file.
-- `file.json`: A JSON key file for Google Sheets authentication.
+- `hack4good-newsletter-5c61bf7e7811.json`: A JSON key file for Google Sheets authentication.
 
 ## Getting Started
 
