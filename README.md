@@ -1,6 +1,6 @@
 # BASE Project Repository
 
-This repository contains the code and resources for the BASE project, which includes web scraping (`BASEScraping`) and newsletter generation (`BASENewsletter`) components.
+This repository contains the code and resources for the BASE project (part of Hack4Good organized by ETH Zurich Analytics Club), which includes web scraping (`BASEScraping`) and newsletter generation (`BASENewsletter`) components.
 
 ## Table of Contents
 
