@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hack4good-newsletter",
+  "private_key_id": "5c61bf7e781115fb4d50749cca52da7fee567cbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCE29LEfMygOut+\n2IoBPGzw4wcC7I5W7ztantYOvJLSaEvYgFzl63Rx+vJCJf1+Aj5I9eK3FwKPJlfi\n5x4WZdCSh+iVXuXVxJqY8RYBUmhewZtlX7OsRu47Sigcusg32ue5pF8H4doA2k80\nppWau5XF5AVI2cN7NqyM17skB1ptrDe+wyriOUm3+Cvzb+Ing+FhnUnmD4Mhmlbe\nZSYLIZyIkcj2dEq0ad3MSttQCoQE5uXjUGpZZ9zF5eOKeum8Mko3FJ0NQDSQOnl7\n0k7svdkJvH63uD14hKnqc80o7AEKOsN9dDBgg0HEgm49/BrcK9XHUW/9qh64RqzF\n+SQEdkk9AgMBAAECggEAAswx4L8qynjbJj+dceNGGaofg0//9Be+J01UVIrVSPpa\npPRRdc3dYw4M3mZxHfvbYxJP/OBjzZm2Z1ZL8d6EfKVsDlh+sfwIN0AV73R36/8b\nL/QKwWNcbJqwyyeivNqVn05uItr+ZnRAnasurT1c7P7gyUa82fdxhDqBuEqVrmsd\nqrOwJj05w4QyCy5OJbnPbcLQ8UMsjn+tU9dIBQdSoOBBlc5rGzrM+aoIRoTAWnhS\n77BoWnZtVubImO2Lucaw0XBlff/h4lEGrg75EtJmJVxQ1n8rCk1HN8e49BKQaefR\nAnqXU0qzsAbYfzQBAzwaHMa9W1oV9qaATPGrgEfG6QKBgQC44yj3T/2g6IKAGBSM\ngKOkyarVLAXkIboieURZPJciMPFR1e4nkAskEu9eH+tYsI1EwVErjQtEzFoFwOMg\nRpLjedYw8jzu1MNx9++MgxhqEMaWs4c/Zm1ewdtfSOggB3cyUXHMe8yu6xHfHRXS\nli9nLmbog1GKuHv25TWZIbrbFQKBgQC39a/2v/emtvMokF00vWWN20vOHqLcJcXn\n3HbH77/hAeOQH1Kb+FsfJkMSB5bjn0qi8GS9H95iilRis+YFNDpCN6Q5ld16HulY\nuBeVNA5nTaEhZcKMltzciT+olB19xaTrBPPUE+iQxDQjIsPFAYeKqB0XHN+JBrAS\n9EiDKRGfiQKBgEyItDeUJECMnyDZVwBGa/dWB+KQg6vJDl0g59ssyr87lVmz/g7g\ngMwhDndfLTQceY4hnDE0BJspIIbLLvn4XOvPTowaaoDPEEzIPqBi0CNv6FUP4ger\npdCY3O+XpYdEr+HjdwEXqkYqRs6eIp92zg6fVbggTAvpjF9KyKIoJUp1AoGAHItB\nz36/9Z1jo4KrA7jzngxN+eClEpXF3JFH2QQpeMdrQPyrO8pQkUfFlnGZBx67XQcC\nCpp8Tjv6lgomAd61v3qUv96yK/XJ7Vs7RYp7Rao0+1Kn2lq6UHn3Z7f7z30wdssg\n7mJcbsIS+PS2/cWb+3bUdLalNMTV40sGSVvBAUkCgYBMv4zro4URnDviDGb1gXkd\nExyaTD0w8Wcsz5aUcgpgCE5uxwvn/kOmcrp1bmDXmooP7uropEYDiAsGg4jOh3a5\nmF9SG61GqvlAJXnIun8cB4TmCfEbXpH0MEkvfcW+1ZXWCDWZWXtfOy2MziKkyoYM\nnT2OoCY1tyuLtyEDzUABPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hack4good-gsheet-operator@hack4good-newsletter.iam.gserviceaccount.com",
+  "client_id": "115655259631535835210",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hack4good-gsheet-operator%40hack4good-newsletter.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
