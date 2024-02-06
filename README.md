@@ -55,3 +55,17 @@ To get started with this project, follow these steps:
    cd BASEProject
 
 We provide the user with a key word analytics tool and weekly newsletter containing summaries of current articles from multiple online sources. In particular, we created a pipeline including web scraping and aggregating information (using LLMs) relevant to energy servitization.
+
+## Workflow Automation
+
+This repository includes GitHub Actions workflows located in the `.github/workflows` folder. These workflows are designed to automate the execution of the web scraping and newsletter generation scripts based on specific triggers or schedules.
+
+To set up and customize these workflows for your needs, refer to the workflow YAML files in the `.github/workflows` directory.
+
+## Dependencies
+
+The project relies on various Python packages for web scraping, data processing, and newsletter generation. Please refer to the `requirements.txt` and `install_packages.txt` files in the respective folders for a list of required dependencies.
+
+## License
+
+This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
