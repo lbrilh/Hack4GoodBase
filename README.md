@@ -58,6 +58,13 @@ To get started with this project, follow these steps:
   
 3. Provide the necessary JSON key file `hack4good-newsletter-5c61bf7e7811.json` for Google Sheets authentication as specified in the scripts (Configure Google SHeets Authentication.
 
+## Google Sheets Integration
+
+For information regarding the use of Google Sheets to manage keywords, categories, URL storage, newsletter recipients, and how to use it as an archive, please contact one of the team members. 
+
+Google Sheets is a crucial component of our project for managing various aspects of data and communication. For detailed guidance and assistance with setting up and using Google Sheets within the project, please reach out to one of our team members. They will provide you with the necessary instructions and access to these Google Sheets documents.
+
+
 ## Usage
 
 ### Web Scraping (BASEScraping)
